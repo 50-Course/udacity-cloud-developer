@@ -1,4 +1,4 @@
-import { add, divide } from './units';
+import { add, divide, concat } from './units';
 
 import { expect } from 'chai';
 import 'mocha';
